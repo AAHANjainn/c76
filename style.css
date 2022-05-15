@@ -1,0 +1,10 @@
+#myCanvas{
+    border:10px solid black;
+    background-image: url(1215269.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background-color: black;
+    color: white;
+}
